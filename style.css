@@ -1,0 +1,79 @@
+head {
+
+}
+
+header{
+    font-weight: 400;
+    font-size:xx-large;
+    font-style: normal; 
+    text-decoration-color:rgb(255, 0, 0);
+    color:white;
+    padding: 10px;
+
+}
+
+body {
+    background: #0e8fc6;
+    font-family: "Inter" sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 100%; 
+    background-image:url("./Imagenes/backg-cripto.jpg");
+    background-repeat: repeat;
+}
+
+}
+main{
+    display:flex;
+}
+.areaprincipal {
+    display: flex;
+    font-size: xx-large;
+}
+.input-text{
+    font-size: larger;
+    margin-top: 40px;
+    width: 80%;
+    height: 200px;
+    color: rgb(25, 123, 184);
+    padding: 10px;
+    border: none;
+    resize: none;
+    letter-spacing: 4px;
+    text-align: center;
+    cursor: text;
+    background-color: paleturquoise;
+    border: 2px dashed rgb(25, 123, 184);
+    border-radius: 12px;
+}
+
+h6{
+    font-weight: 400;
+    font-size:xx-large;
+    font-style: normal; 
+    text-decoration-color:rgb(255, 0, 0);
+    color:white;
+    padding: 10px;
+}
+
+.input-text-area{
+    font-size: larger;
+    margin-top: 40px;
+    width: 90%;
+    height: 200px;
+    color: rgb(25, 123, 184);
+    padding: 10px;
+    border: none;
+    resize: none;
+    letter-spacing: 4px;
+    text-align: center;
+    cursor: text;
+    background-color: paleturquoise;
+    border: 2px dashed rgb(25, 123, 184);
+    border-radius: 12px;
+}
+
+button{
+  font-size: xx-large;  
+  color: rgb(25, 123, 184);
+}
